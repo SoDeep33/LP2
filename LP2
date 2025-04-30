@@ -13,7 +13,7 @@ def binary_search(arr, target):
             
     return -1  # Target not found
 
-# Example usage
+
 arr = [10, 20, 30, 40, 50, 60]  # This must be sorted
 target = int(input("Enter the number to search: "))
 
